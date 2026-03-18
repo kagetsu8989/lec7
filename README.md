@@ -38,7 +38,7 @@ Backup strategy гэдэг нь өгөгдлийг алдагдахаас хам
 - Эхний full backup-аас хойш өөрчлөгдсөн бүх өгөгдлийг хадгална
 - Сэргээхэд incremental-аас амар
 
-# ☁️ Хадгалах байршил
+# Хадгалах байршил
 - Local storage (компьютер, external disk)
 - Cloud storage (Google Drive, Dropbox)
 
