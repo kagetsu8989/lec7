@@ -16,29 +16,29 @@
 - Сул тал: зай арай их эзэлнэ
 
 # 2дох асуулт
-## 🛡️ Backup Strategy
+# Backup Strategy
 
 Backup strategy гэдэг нь өгөгдлийг алдагдахаас хамгаалах зорилгоор
 ямар аргаар, хэдийд, хаана нөөцлөхийг тодорхойлсон төлөвлөгөө юм.
 
-### 🔄 Backup хийх давтамж
+# Backup хийх давтамж
 - Daily (өдөр бүр)
 - Weekly (долоо хоног бүр)
 - Monthly (сар бүр)
 
-#### 1. Full Backup
+# 1. Full Backup
 - Бүх өгөгдлийг бүтнээр нь хадгална
 - Сэргээхэд хамгийн хялбар
 
-#### 2. Incremental Backup
+# 2. Incremental Backup
 - Сүүлд хийсэн backup-аас хойш өөрчлөгдсөн хэсгийг хадгална
 - Хурдан, бага зай эзэлнэ
 
-#### 3. Differential Backup
+# 3. Differential Backup
 - Эхний full backup-аас хойш өөрчлөгдсөн бүх өгөгдлийг хадгална
 - Сэргээхэд incremental-аас амар
 
-### ☁️ Хадгалах байршил
+# ☁️ Хадгалах байршил
 - Local storage (компьютер, external disk)
 - Cloud storage (Google Drive, Dropbox)
 
